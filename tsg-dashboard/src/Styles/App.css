@@ -1,0 +1,5 @@
+
+html, body, #root, .app, .main-content, .content-body {
+  background-color: #000 !important;
+  color: #fff !important;
+}

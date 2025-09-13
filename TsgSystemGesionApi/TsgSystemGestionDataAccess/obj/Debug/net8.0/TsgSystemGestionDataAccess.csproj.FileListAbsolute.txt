@@ -1,0 +1,15 @@
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\bin\Debug\net8.0\TsgSystemGestionDataAccess.deps.json
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\bin\Debug\net8.0\TsgSystemGestionDataAccess.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\bin\Debug\net8.0\TsgSystemGestionDataAccess.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\bin\Debug\net8.0\TsgSystemGestionEntities.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\bin\Debug\net8.0\TsgSystemGestionEntities.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.csproj.AssemblyReference.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.AssemblyInfoInputs.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.AssemblyInfo.cs
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSyste.BF8A3AEB.Up2Date
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\refint\TsgSystemGestionDataAccess.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\TsgSystemGestionDataAccess.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionDataAccess\obj\Debug\net8.0\ref\TsgSystemGestionDataAccess.dll

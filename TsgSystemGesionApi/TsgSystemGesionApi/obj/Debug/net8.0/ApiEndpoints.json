@@ -1,0 +1,65 @@
+[
+  {
+    "ContainingType": "TsgSystemGesionApi.Controllers.RubrosController",
+    "Method": "GetAll",
+    "RelativePath": "Rubros",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TsgSystemGesionApi.Controllers.RubrosController",
+    "Method": "Create",
+    "RelativePath": "Rubros",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rubro",
+        "Type": "TsgSystemGestionEntities.Rubros",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TsgSystemGesionApi.Controllers.RubrosController",
+    "Method": "Update",
+    "RelativePath": "Rubros",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "rubro",
+        "Type": "TsgSystemGestionEntities.Rubros",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TsgSystemGesionApi.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[TsgSystemGesionApi.WeatherForecast, TsgSystemGesionApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

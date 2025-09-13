@@ -1,0 +1,11 @@
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\bin\Debug\net8.0\TsgSystemGestionEntities.deps.json
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\bin\Debug\net8.0\TsgSystemGestionEntities.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\bin\Debug\net8.0\TsgSystemGestionEntities.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\TsgSystemGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\TsgSystemGestionEntities.AssemblyInfoInputs.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\TsgSystemGestionEntities.AssemblyInfo.cs
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\TsgSystemGestionEntities.csproj.CoreCompileInputs.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\TsgSystemGestionEntities.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\refint\TsgSystemGestionEntities.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\TsgSystemGestionEntities.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionEntities\obj\Debug\net8.0\ref\TsgSystemGestionEntities.dll

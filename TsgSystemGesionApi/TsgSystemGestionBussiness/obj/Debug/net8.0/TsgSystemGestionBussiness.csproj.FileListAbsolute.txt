@@ -1,0 +1,17 @@
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionBussiness.deps.json
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionBussiness.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionBussiness.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionDataAccess.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionEntities.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionDataAccess.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\bin\Debug\net8.0\TsgSystemGestionEntities.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.csproj.AssemblyReference.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.AssemblyInfoInputs.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.AssemblyInfo.cs
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.csproj.CoreCompileInputs.cache
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSyste.751EB6FA.Up2Date
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\refint\TsgSystemGestionBussiness.dll
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\TsgSystemGestionBussiness.pdb
+C:\Users\hmansilla\source\repos\TsgSystemGesionApi\TsgSystemGestionBussiness\obj\Debug\net8.0\ref\TsgSystemGestionBussiness.dll

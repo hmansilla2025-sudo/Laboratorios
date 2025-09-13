@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B1305BC-6960-4078-B6EC-6082C16D6229}|TsgSystemGestionDataAccess\\TsgSystemGestionDataAccess.csproj|c:\\users\\hmansilla\\source\\repos\\tsgsystemgesionapi\\tsgsystemgestiondataaccess\\rubrodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B1305BC-6960-4078-B6EC-6082C16D6229}|TsgSystemGestionDataAccess\\TsgSystemGestionDataAccess.csproj|solutionrelative:tsgsystemgestiondataaccess\\rubrodataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E67F9F98-7DB9-46CF-A9AF-6B3F832FA5F2}|TsgSystemGestionBussiness\\TsgSystemGestionBussiness.csproj|c:\\users\\hmansilla\\source\\repos\\tsgsystemgesionapi\\tsgsystemgestionbussiness\\rubrobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E67F9F98-7DB9-46CF-A9AF-6B3F832FA5F2}|TsgSystemGestionBussiness\\TsgSystemGestionBussiness.csproj|solutionrelative:tsgsystemgestionbussiness\\rubrobussiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4170F509-B4D7-4CBC-970C-539E4A9C1443}|TsgSystemGesionApi\\TsgSystemGesionApi.csproj|c:\\users\\hmansilla\\source\\repos\\tsgsystemgesionapi\\tsgsystemgesionapi\\controllers\\rubroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4170F509-B4D7-4CBC-970C-539E4A9C1443}|TsgSystemGesionApi\\TsgSystemGesionApi.csproj|solutionrelative:tsgsystemgesionapi\\controllers\\rubroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0FBE110-DF15-4F9C-8829-05025C620E24}|TsgSystemGestionEntities\\TsgSystemGestionEntities.csproj|c:\\users\\hmansilla\\source\\repos\\tsgsystemgesionapi\\tsgsystemgestionentities\\rubros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0FBE110-DF15-4F9C-8829-05025C620E24}|TsgSystemGestionEntities\\TsgSystemGestionEntities.csproj|solutionrelative:tsgsystemgestionentities\\rubros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4170F509-B4D7-4CBC-970C-539E4A9C1443}|TsgSystemGesionApi\\TsgSystemGesionApi.csproj|c:\\users\\hmansilla\\source\\repos\\tsgsystemgesionapi\\tsgsystemgesionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4170F509-B4D7-4CBC-970C-539E4A9C1443}|TsgSystemGesionApi\\TsgSystemGesionApi.csproj|solutionrelative:tsgsystemgesionapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4170F509-B4D7-4CBC-970C-539E4A9C1443}|TsgSystemGesionApi\\TsgSystemGesionApi.csproj|c:\\users\\hmansilla\\source\\repos\\tsgsystemgesionapi\\tsgsystemgesionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4170F509-B4D7-4CBC-970C-539E4A9C1443}|TsgSystemGesionApi\\TsgSystemGesionApi.csproj|solutionrelative:tsgsystemgesionapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGesionApi\\Program.cs",
+              "RelativeDocumentMoniker": "TsgSystemGesionApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGesionApi\\Program.cs",
+              "RelativeToolTip": "TsgSystemGesionApi\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T22:45:47.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RubrosController.cs",
+              "DocumentMoniker": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGesionApi\\Controllers\\RubrosController.cs",
+              "RelativeDocumentMoniker": "TsgSystemGesionApi\\Controllers\\RubrosController.cs",
+              "ToolTip": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGesionApi\\Controllers\\RubrosController.cs",
+              "RelativeToolTip": "TsgSystemGesionApi\\Controllers\\RubrosController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T22:33:46.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RubroBussiness.cs",
+              "DocumentMoniker": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGestionBussiness\\RubroBussiness.cs",
+              "RelativeDocumentMoniker": "TsgSystemGestionBussiness\\RubroBussiness.cs",
+              "ToolTip": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGestionBussiness\\RubroBussiness.cs",
+              "RelativeToolTip": "TsgSystemGestionBussiness\\RubroBussiness.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA7wBoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T22:26:56.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RubroDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGestionDataAccess\\RubroDataAccess.cs",
+              "RelativeDocumentMoniker": "TsgSystemGestionDataAccess\\RubroDataAccess.cs",
+              "ToolTip": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGestionDataAccess\\RubroDataAccess.cs",
+              "RelativeToolTip": "TsgSystemGestionDataAccess\\RubroDataAccess.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAiwC0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T21:42:05.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGesionApi\\appsettings.json",
+              "RelativeDocumentMoniker": "TsgSystemGesionApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGesionApi\\appsettings.json",
+              "RelativeToolTip": "TsgSystemGesionApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-08T21:39:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rubros.cs",
+              "DocumentMoniker": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGestionEntities\\Rubros.cs",
+              "RelativeDocumentMoniker": "TsgSystemGestionEntities\\Rubros.cs",
+              "ToolTip": "C:\\Users\\hmansilla\\source\\repos\\TsgSystemGesionApi\\TsgSystemGestionEntities\\Rubros.cs",
+              "RelativeToolTip": "TsgSystemGestionEntities\\Rubros.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T21:23:30.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+.home {
+  position: relative;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+}
+
+.home-overlay {
+  background: rgba(0, 0, 0, 0.6);
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.home-title {
+  font-size: 2.5rem;
+  color: #18b018;
+  margin-bottom: 10px;
+}
+
+.home-subtitle {
+  font-size: 1.2rem;
+  color: #ccc;
+}

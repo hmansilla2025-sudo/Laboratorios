@@ -1,0 +1,6 @@
+@TsgSystemGesionApi_HostAddress = http://localhost:5093
+
+GET {{TsgSystemGesionApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
